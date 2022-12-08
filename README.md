@@ -1,7 +1,9 @@
 ## FRANCIS KAMARA
-_________________
 
 ### Hi there 👋
+Francis Kamara is a passionate, upcoming developer, currently a student at ALX_Africa ( Software Engineering).
+
+![Kamara's github stats](https://github-readme-stats.vercel.app/api?username=devkamara)
 
 <!--
 **devkamara/devkamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
